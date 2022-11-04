@@ -1,0 +1,19 @@
+body{
+    background: linear-gradient(45deg,rgb(215, 160, 9),rgb(209, 209, 9));
+     text-align: justify;
+}
+.llll{
+    color: rgb(167, 13, 250);
+    text-shadow: 3px,3px rgb(174, 67, 67);
+}
+
+.hhh{
+    color: rgb(248, 14, 14);
+}
+.imgg{
+  height: 200px;
+  width: 300px;
+}
+.link{
+    color: rgb(61, 17, 17);
+}
